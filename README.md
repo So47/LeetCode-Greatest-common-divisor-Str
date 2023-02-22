@@ -22,14 +22,14 @@ Input: str1 = "ABABAB", str2 = "ABAB"
 Output: "AB"
 ```
 
-##Example 3:
+## Example 3:
 
 ```
 Input: str1 = "LEET", str2 = "CODE"
 Output: ""
 ```
 
-##Constraints:
+## Constraints:
 
 
 * 1 <= str1.length, str2.length <= 1000
